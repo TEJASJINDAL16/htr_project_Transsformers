@@ -1,0 +1,11 @@
+{
+  "CER": 0.1502,
+  "WER": 0.3067,
+  "SER": 0.8568,
+  "Accuracy": 55.0277,
+  "num_samples": 796,
+  "model": "ResNet101+Transformer",
+  "dataset": "Bentham HDF5 (test split)",
+  "inference_time_s": 168.26,
+  "ms_per_sample": 211.38
+}

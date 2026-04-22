@@ -1,0 +1,26 @@
+# virtual env
+venv/
+.venv/
+
+# data and model weights (too large for git)
+data/
+models/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# os
+.DS_Store
+Thumbs.db
+
+# jupyter
+.ipynb_checkpoints/
+
+# ide
+.vscode/
+.idea/

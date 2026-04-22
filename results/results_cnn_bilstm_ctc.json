@@ -1,0 +1,13 @@
+{
+  "CER": 0.6614,
+  "WER": 0.9158,
+  "SER": 0.983,
+  "Accuracy": 4.1112,
+  "num_samples": 2295,
+  "model": "CNN-BiLSTM-CTC (old)",
+  "dataset": "Bentham shared test split",
+  "model_version": "old",
+  "checkpoint": "models/checkpoint.pth",
+  "inference_time_s": 15.017,
+  "ms_per_sample": 6.54
+}
