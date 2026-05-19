@@ -103,9 +103,6 @@ Training is done through the Jupyter notebooks:
 - **Transformer**: `notebooks/Transformer_OCR_Local.ipynb`
 - **CNN-BiLSTM-CTC**: `notebooks/htr.ipynb`
 
-> [!IMPORTANT]
-> **Before running the notebooks**, make sure to update the dataloading and weights paths inside the notebooks to point exactly to where you placed the downloaded dataset and model weights (e.g. `../data/...` or your own absolute paths). Look for the `# UPDATE THESE PATHS` comments.
-
 ---
 
 ## Benchmarking
