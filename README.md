@@ -146,8 +146,3 @@ python benchmarks/compare_models.py \
 2. Vaswani, A., Shazeer, N., Parmar, N., et al. (2017). *Attention Is All You Need.* NeurIPS.
 3. He, K., Zhang, X., Ren, S., & Sun, J. (2016). *Deep Residual Learning for Image Recognition.* CVPR.
 
----
-
-## License
-
-MIT
